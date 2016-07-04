@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minHeight="@dimen/list_item_image_height"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:id="@+id/address_container"
+        style="@style/NameLayout">
+
+        <ImageView
+            android:id="@+id/image"
+            style="@style/ImageViewStyle"/>
+
+        <TextView
+            android:id="@+id/name_text_view"
+            style="@style/NameStyle"
+            tools:text="Name text" />
+    </LinearLayout>
+
+    <ScrollView
+        android:id="@+id/description_container"
+        style="@style/DescriptionLayout">
+
+        <TextView
+            android:id="@+id/description_text_view"
+            style="@style/DescriptionStyle"
+            tools:text="Description text" />
+    </ScrollView>
+</RelativeLayout>
