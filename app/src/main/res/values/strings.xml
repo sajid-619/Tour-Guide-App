@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+
+    <string name="category_cities">Cities</string>
+    <string name="category_monuments">Monuments</string>
+    <string name="category_famous_people">Famous People</string>
+    <string name="category_rent_a_car">Rent a Car</string>
+
+    <string name="avis_description">Make a car reservation from Avis Rent A Car car rental. Book low rates online and reserve a rental car. https://www.avis.com/</string>
+    <string name="alamo_description">Looking for a car rental deal? Join Alamo Insiders. Find discounts, coupons, and last minute specials from Alamo Rent A Car. http://www.alamo.com/</string>
+
+    <string name="benedetti_description">Mario Orlando Hardy Hamlet Brenno Benedetti Farrugia (14 September 1920 – 17 May 2009), known as Mario Benedetti, was an Uruguayan journalist, novelist, and poet as well as being an integral member of the Generación del 45. In spite of publishing more than 80 books and being published in twenty languages he was not well known in the English-speaking world, but in the Spanish-speaking world he was considered one of Latin America most important writers from the latter half of the 20th-century.</string>
+    <string name="forlan_description">Diego Forlán Corazzo born 19 May 1979 is a Uruguayan footballer who plays as a forward for Peñarol. He is a two-time winner of both the Pichichi Trophy and the European Golden Shoe, and also received the Golden Ball as the best player at the 2010 World Cup. He is regarded as one of the greatest Uruguayan players of all time.</string>
+
+    <string name="obelisco_description">The Obelisk of Montevideo, officially listed as the Obelisco a los Constituyentes de 1830, is a monument created by sculptor José Luis Zorrilla de San Martín (1891-1975).</string>
+    <string name="salvo_description">Palacio Salvo is a building in Montevideo, Uruguay, located at the intersection of 18 de Julio Avenue and Plaza Independencia. For decades it was the tallest building in South America.</string>
+    <string name="legislativo_description">The Legislative Palace in Montevideo, Uruguay, is the site where the Uruguayan parliament meets.</string>
+
+    <string name="montevideo_description">Montevideo has consistently been rated as having the highest quality of life of any city in Latin America by 2015 has held this rank every year during the last decade.</string>
+    <string name="rivera_description">Rivera is the capital of Rivera Department of Uruguay. The border with Brazil joins it with the Brazilian city of Santana do Livramento, which is only a street away from it. Together, they form an urban area of around 200,000 inhabitants.</string>
+    <string name="colonia_description">It is renowned for its historic quarter, a UNESCO World Heritage Site. Modern Colonia del Sacramento produces textiles and has a free trade zone, in addition to a polytechnic centre and various government buildings.</string>
+    <string name="mercedes_description">Mercedes is an important centre of tourism, commerce and a commercial port. Its main industries are based on agriculture, dairy products, paper manufacturing and industrial activities. Its rambla (riverside promenade) is one of the widest in the country.</string>
+    <string name="salto_description">Salto is the capital city of the Salto Department in northwestern Uruguay. As of the 2011 census it had a population of 104,028 and is the second most populated city in Uruguay.It is served by the Nueva Hesperides International Airport.</string>
+</resources>
