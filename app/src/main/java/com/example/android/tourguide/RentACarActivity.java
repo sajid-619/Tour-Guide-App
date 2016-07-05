@@ -6,9 +6,7 @@ import android.widget.ListView;
 
 import java.util.ArrayList;
 
-/**
- * Created by mpombos on 30/6/16.
- */
+
 public class RentACarActivity extends AppCompatActivity {
 
     @Override
